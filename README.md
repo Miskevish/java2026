@@ -33,4 +33,4 @@ Aquí encontrarás desde los conceptos básicos de sintaxis hasta implementacion
 </div>
 
 ---
-<p align="center">Desarrollado con ❤️ por <b>Miske Dev</b></p>
+<p align="center">Desarrollado 🛠️ por <b>Nicolas Miskevish</b></p>
