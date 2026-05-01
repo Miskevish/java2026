@@ -13,7 +13,7 @@ public abstract class CuentaBancaria {
     }
 
     // Metodo ABSTRACTO: cada cuenta lo implementa a su manera
-    // No tiene cuerpo (sin llaves, termina en ;)
+
     public abstract void aplicarOperacionMensual();
 
     // Metodo CONCRETO: igual para todas las cuentas
